@@ -1,0 +1,208 @@
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.exe.config
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.exe
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.pdb
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.dll
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\mscorlib.dll
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\System.Net.Http.dll
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.pdb
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.xml
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\System.Net.Http.xml
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Tao.DevIl.xml
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Tao.FreeGlut.xml
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Tao.Glfw.xml
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Tao.Sdl.xml
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\normidna.nlp
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\normnfc.nlp
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\normnfd.nlp
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\normnfkc.nlp
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\normnfkd.nlp
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.exe
+D:\Teaching\Lab7 Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.pdb
+G:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.exe.config
+G:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.exe
+G:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.pdb
+G:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.dll
+G:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.pdb
+G:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.xml
+G:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+G:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+G:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+G:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.exe
+G:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.pdb
+G:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+F:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.exe.config
+F:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.exe
+F:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.pdb
+F:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.exe
+F:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.pdb
+F:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.dll
+F:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.pdb
+F:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.xml
+F:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+F:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+F:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+F:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+D:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.exe.config
+D:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.exe
+D:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.pdb
+D:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.exe
+D:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.pdb
+D:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.dll
+D:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.pdb
+D:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.xml
+D:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+D:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+D:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+F:\_labs\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.exe.config
+F:\_labs\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.exe
+F:\_labs\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.pdb
+F:\_labs\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.exe
+F:\_labs\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\Graphics.pdb
+F:\_labs\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.dll
+F:\_labs\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.pdb
+F:\_labs\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\bin\Debug\GlmNet.xml
+F:\_labs\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+F:\_labs\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+F:\_labs\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+F:\_labs\7 - Light\Graphics Lab7 Model Loading - with light\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+G:\_labs\7 - Light\Lab7 Light\Graphics\bin\Debug\Graphics.exe.config
+G:\_labs\7 - Light\Lab7 Light\Graphics\obj\Debug\Graphics.exe
+G:\_labs\7 - Light\Lab7 Light\Graphics\obj\Debug\Graphics.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Labs\Lab 08\Code\Lab8 Light - TA\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Labs\Lab 08\Code\Lab8 Light - TA\Graphics\bin\Debug\Graphics.exe
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Labs\Lab 08\Code\Lab8 Light - TA\Graphics\bin\Debug\Graphics.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Labs\Lab 08\Code\Lab8 Light - TA\Graphics\bin\Debug\GlmNet.dll
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Labs\Lab 08\Code\Lab8 Light - TA\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Labs\Lab 08\Code\Lab8 Light - TA\Graphics\bin\Debug\GlmNet.xml
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Labs\Lab 08\Code\Lab8 Light - TA\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Labs\Lab 08\Code\Lab8 Light - TA\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Labs\Lab 08\Code\Lab8 Light - TA\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Labs\Lab 08\Code\Lab8 Light - TA\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Labs\Lab 08\Code\Lab8 Light - TA\Graphics\obj\Debug\Graphics.exe
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Labs\Lab 08\Code\Lab8 Light - TA\Graphics\obj\Debug\Graphics.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics\bin\Debug\Graphics.exe
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics\bin\Debug\Graphics.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics\bin\Debug\GlmNet.dll
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics\bin\Debug\GlmNet.xml
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics\obj\Debug\Graphics.exe
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics\obj\Debug\Graphics.pdb
+D:\third year\Fall 2019 (5th Semester)\Graphics Project\Graphics\bin\Debug\Graphics.exe.config
+D:\third year\Fall 2019 (5th Semester)\Graphics Project\Graphics\bin\Debug\Graphics.exe
+D:\third year\Fall 2019 (5th Semester)\Graphics Project\Graphics\bin\Debug\Graphics.pdb
+D:\third year\Fall 2019 (5th Semester)\Graphics Project\Graphics\bin\Debug\GlmNet.dll
+D:\third year\Fall 2019 (5th Semester)\Graphics Project\Graphics\bin\Debug\GlmNet.pdb
+D:\third year\Fall 2019 (5th Semester)\Graphics Project\Graphics\bin\Debug\GlmNet.xml
+D:\third year\Fall 2019 (5th Semester)\Graphics Project\Graphics\obj\Debug\Graphics.csprojAssemblyReference.cache
+D:\third year\Fall 2019 (5th Semester)\Graphics Project\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+D:\third year\Fall 2019 (5th Semester)\Graphics Project\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\third year\Fall 2019 (5th Semester)\Graphics Project\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+D:\third year\Fall 2019 (5th Semester)\Graphics Project\Graphics\obj\Debug\Graphics.csproj.CopyComplete
+D:\third year\Fall 2019 (5th Semester)\Graphics Project\Graphics\obj\Debug\Graphics.exe
+D:\third year\Fall 2019 (5th Semester)\Graphics Project\Graphics\obj\Debug\Graphics.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\masry project\Graphics Project\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\masry project\Graphics Project\Graphics\bin\Debug\Graphics.exe
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\masry project\Graphics Project\Graphics\bin\Debug\Graphics.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\masry project\Graphics Project\Graphics\bin\Debug\GlmNet.dll
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\masry project\Graphics Project\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\masry project\Graphics Project\Graphics\bin\Debug\GlmNet.xml
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\masry project\Graphics Project\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\masry project\Graphics Project\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\masry project\Graphics Project\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\masry project\Graphics Project\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\masry project\Graphics Project\Graphics\obj\Debug\Graphics.exe
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\masry project\Graphics Project\Graphics\obj\Debug\Graphics.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics Project\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics Project\Graphics\bin\Debug\Graphics.exe
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics Project\Graphics\bin\Debug\Graphics.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics Project\Graphics\bin\Debug\GlmNet.dll
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics Project\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics Project\Graphics\bin\Debug\GlmNet.xml
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.exe
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Project\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics Project\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics Project\Graphics\bin\Debug\Graphics.exe
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics Project\Graphics\bin\Debug\Graphics.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics Project\Graphics\bin\Debug\GlmNet.dll
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics Project\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics Project\Graphics\bin\Debug\GlmNet.xml
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.exe
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Dr Tony\Desktop\New folder (2)\Graphics Project\Graphics Project\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Dr Tony\Desktop\New folder (2)\Graphics Project\Graphics Project\Graphics\bin\Debug\Graphics.exe
+C:\Users\Dr Tony\Desktop\New folder (2)\Graphics Project\Graphics Project\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Dr Tony\Desktop\New folder (2)\Graphics Project\Graphics Project\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Dr Tony\Desktop\New folder (2)\Graphics Project\Graphics Project\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Dr Tony\Desktop\New folder (2)\Graphics Project\Graphics Project\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Dr Tony\Desktop\New folder (2)\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Dr Tony\Desktop\New folder (2)\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Dr Tony\Desktop\New folder (2)\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+C:\Users\Dr Tony\Desktop\New folder (2)\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.csproj.CopyComplete
+C:\Users\Dr Tony\Desktop\New folder (2)\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.exe
+C:\Users\Dr Tony\Desktop\New folder (2)\Graphics Project\Graphics Project\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Dr Tony\Desktop\Graphics\Graphics Project\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Dr Tony\Desktop\Graphics\Graphics Project\Graphics\bin\Debug\Graphics.exe
+C:\Users\Dr Tony\Desktop\Graphics\Graphics Project\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Dr Tony\Desktop\Graphics\Graphics Project\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Dr Tony\Desktop\Graphics\Graphics Project\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Dr Tony\Desktop\Graphics\Graphics Project\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Dr Tony\Desktop\Graphics\Graphics Project\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Dr Tony\Desktop\Graphics\Graphics Project\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Dr Tony\Desktop\Graphics\Graphics Project\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+C:\Users\Dr Tony\Desktop\Graphics\Graphics Project\Graphics\obj\Debug\Graphics.csproj.CopyComplete
+C:\Users\Dr Tony\Desktop\Graphics\Graphics Project\Graphics\obj\Debug\Graphics.exe
+C:\Users\Dr Tony\Desktop\Graphics\Graphics Project\Graphics\obj\Debug\Graphics.pdb
+F:\Graphics Project\Graphics\bin\Debug\Graphics.exe.config
+F:\Graphics Project\Graphics\bin\Debug\Graphics.exe
+F:\Graphics Project\Graphics\bin\Debug\Graphics.pdb
+F:\Graphics Project\Graphics\bin\Debug\GlmNet.dll
+F:\Graphics Project\Graphics\bin\Debug\GlmNet.pdb
+F:\Graphics Project\Graphics\bin\Debug\GlmNet.xml
+F:\Graphics Project\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+F:\Graphics Project\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+F:\Graphics Project\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+F:\Graphics Project\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+F:\Graphics Project\Graphics\obj\Debug\Graphics.exe
+F:\Graphics Project\Graphics\obj\Debug\Graphics.pdb
+C:\Users\crspo\Desktop\Graphics Project\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\crspo\Desktop\Graphics Project\Graphics\bin\Debug\Graphics.exe
+C:\Users\crspo\Desktop\Graphics Project\Graphics\bin\Debug\Graphics.pdb
+C:\Users\crspo\Desktop\Graphics Project\Graphics\bin\Debug\GlmNet.dll
+C:\Users\crspo\Desktop\Graphics Project\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\crspo\Desktop\Graphics Project\Graphics\bin\Debug\GlmNet.xml
+C:\Users\crspo\Desktop\Graphics Project\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\crspo\Desktop\Graphics Project\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\crspo\Desktop\Graphics Project\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\crspo\Desktop\Graphics Project\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\crspo\Desktop\Graphics Project\Graphics\obj\Debug\Graphics.exe
+C:\Users\crspo\Desktop\Graphics Project\Graphics\obj\Debug\Graphics.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics\bin\Debug\Graphics.exe
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics\bin\Debug\Graphics.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics\bin\Debug\GlmNet.dll
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics\bin\Debug\GlmNet.xml
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics\obj\Debug\Graphics.exe
+C:\Users\crspo\Desktop\third year 1st semester\Computer Graphics\Projectat\Graphics Project\Graphics\obj\Debug\Graphics.pdb
